@@ -17,7 +17,7 @@ A command-line tool that compares Steam game prices across regions, converts the
 A live business website for a Caribbean leadership and organisational consulting firm. It presents their three service areas (strategy and execution, people development, and culture), with discovery-call booking and a mailing list sign-up built in.
 
 - **Built with:** React, TypeScript, TanStack Start, Tailwind CSS, Supabase
-- **Status:** Live at [actionedgett.com](https://actionedgett.com/) · [View code](https://github.com/ThomasgCouch/actionedge)
+- **Status:** Live at [actionedgett.com](https://actionedgett.com/) 
 
 ### 📚 Functional Programming coursework
 Lab work for my *Further Programming Paradigms* module — recursion, higher-order functions, types and more in Haskell.
