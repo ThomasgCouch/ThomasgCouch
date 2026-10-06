@@ -35,7 +35,7 @@ One or two sentences on what it does and why you built it.
 
 ---
 
-## 🚀 Coming up
+##  Coming up
 
 - [ ] Steam Price App — web version
 - [ ] C# Data Exfiltrator
