@@ -38,8 +38,8 @@ One or two sentences on what it does and why you built it.
 ## 🚀 Coming up
 
 - [ ] Steam Price App — web version
-- [ ] *Next idea goes here*
-- [ ] *And another*
+- [ ] C# Data Exfiltrator
+- [ ] C++ Game Archiving 
 
 ---
 
