@@ -1,6 +1,6 @@
 # Hi, I'm Thomas 👋
 
-I'm a university student learning software development — currently working through functional programming in Haskell and building small tools in Python on the side. This page tracks what I've built so far and what's coming next.
+I'm a university student learning software development currently working through functional programming in Haskell and building small tools in Python on the side. This page tracks what I've built so far and what's coming next.
 
 ---
 
