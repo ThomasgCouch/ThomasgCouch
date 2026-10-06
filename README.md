@@ -6,7 +6,7 @@ I'm a university student learning software development — currently working thr
 
 ## 🛠️ Projects
 
-### 🎮 [Steam Price App (prototype)](https://github.com/ThomasgCouch/Steam-Price-app-prototype)
+###  [Steam Price App (prototype)](https://github.com/ThomasgCouch/Steam-Price-app-prototype)
 A command-line tool that compares Steam game prices across regions, converts them into one currency, and factors in typical card fees to show where a game is cheapest.
 
 - **Built with:** Python
