@@ -39,7 +39,7 @@ One or two sentences on what it does and why you built it.
 
 - [ ] Steam Price App — web version
 - [ ] C# Data Exfiltrator
-- [ ] C++ Game Archiving 
+- [ ] C++ Game Archiving Decompilation
 
 ---
 
