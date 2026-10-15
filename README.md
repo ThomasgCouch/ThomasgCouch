@@ -20,7 +20,7 @@ A live business website for a Caribbean leadership and organisational consulting
 - **Status:** Live at [actionedgett.com](https://actionedgett.com/) 
 
 ### 📚 Functional Programming coursework
-Lab work for my *Further Programming Paradigms* module — recursion, higher-order functions, types and more in Haskell.
+Lab work for my *Further Programming Paradigms* module recursion, higher-order functions, types and more in Haskell.
 
 - **Built with:** Haskell
 - **Status:** Ongoing
